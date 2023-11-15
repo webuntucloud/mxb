@@ -1,27 +1,27 @@
 {
-    "name": "Max Böck",
-    "email": "hello@mxb.dev",
+    "name": "Andrew Michaels",
+    "email": "info@cloudmzansi.co.za",
     "avatar": "/assets/images/avatar2.jpg",
     "social": {
         "twitter": {
             "name": "mxbck",
-            "url": "https://twitter.com/mxbck"
+            "url": "https://twitter.com/cloudmzansi"
         },
         "github": {
             "name": "maxboeck",
-            "url": "https://github.com/maxboeck"
+            "url": "https://github.com/cloudmzansi"
         },
         "mastodon": {
             "name": "mxbck",
-            "url": "https://front-end.social/@mxbck"
+            "url": "https://front-end.social/@cloudmzansi"
         },
         "codepen": {
             "name": "mxbck",
-            "url": "https://codepen.io/mxbck/"
+            "url": "https://codepen.io/cloudmzansi/"
         },
         "notist": {
             "name": "mxb",
-            "url": "https://noti.st/mxb"
+            "url": "https://noti.st/cloudmzansi"
         }
     }
 }
